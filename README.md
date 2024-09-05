@@ -12,7 +12,7 @@ Clone the repository: git clone https://github.com/Mojimoney/Quizapp.git
 Install dependencies: npm install
 Start the server: npm start
 Usage
-Open the Quiz App in your web browser: http://localhost:3000
+Open the Quiz App in your web browser: https://mojimoney.github.io/Quizapp/Quiz.html
 Create an account or log in to start taking quizzes
 License
 The Quiz App is licensed under the MIT License.
